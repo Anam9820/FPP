@@ -12,3 +12,6 @@ body{
 .background{
     background-color: peachpuff;
 }
+.cards:hover{
+    color: aqua;
+}
